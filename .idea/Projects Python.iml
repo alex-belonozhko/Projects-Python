@@ -5,7 +5,6 @@
       <excludeFolder url="file://$MODULE_DIR$/First" />
       <excludeFolder url="file://$MODULE_DIR$/Old" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (Projects Python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
